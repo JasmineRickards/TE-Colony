@@ -8,13 +8,13 @@
 	suit_type = "combat hardsuit"
 	armor_list = list(
 		melee = 50,
-		bullet = 45,
-		energy = 30,
+		bullet = 55,
+		energy = 50,
 		bomb = 50,
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0
 	drain = 4
 	offline_slowdown = 3
 	offline_vision_restriction = 1
@@ -69,7 +69,7 @@
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.5 //So we have a reason to not use it
+	slowdown = 0 //So we have a reason to not use it - very stupid reasoning for 0.5 slowdown
 	drain = 25
 	offline_slowdown = 3
 	offline_vision_restriction = 1
@@ -113,7 +113,7 @@
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0.1
 	drain = 4
 	offline_slowdown = 3
 	offline_vision_restriction = 1
@@ -164,7 +164,7 @@
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.4 //Heavy ass armor. This isn't for rapid deployment. It is for slapping the shit out of a threat to the colony that has been foolish enough to stay in one place.
+	slowdown = 0 //Heavy ass armor. This isn't for rapid deployment. It is for slapping the shit out of a threat to the colony that has been foolish enough to stay in one place.
 	drain = 12
 	offline_slowdown = 3
 	offline_vision_restriction = 1
@@ -209,7 +209,7 @@
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.5 //Heavy ass armor. This isn't for rapid deployment. It is for slapping the shit out of a threat to the colony that has been foolish enough to stay in one place.
+	slowdown = 0 //Heavy ass armor. This isn't for rapid deployment. It is for slapping the shit out of a threat to the colony that has been foolish enough to stay in one place.
 	drain = 25
 	offline_slowdown = 3
 	offline_vision_restriction = 1
@@ -244,7 +244,7 @@
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0
 	drain = 4
 	offline_slowdown = 3
 	offline_vision_restriction = 1

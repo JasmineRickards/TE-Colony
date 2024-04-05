@@ -9,14 +9,14 @@
 	icon_state = "merc_rig"
 	suit_type = "crimson hardsuit"
 	armor_list = list(
-		melee = 40,
-		bullet = 40,
-		energy = 30,
+		melee = 50,
+		bullet = 50,
+		energy = 55,
 		bomb = 75,
 		bio = 100,
-		rad = 50
+		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0
 	drain = 3.5
 	offline_slowdown = 3
 	offline_vision_restriction = 1

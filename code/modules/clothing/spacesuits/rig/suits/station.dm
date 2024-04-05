@@ -190,7 +190,7 @@ Technomancer RIG
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0.1
 	drain = 3
 	offline_slowdown = 3
 	offline_vision_restriction = 0
@@ -243,7 +243,7 @@ Technomancer RIG
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0.1
 	drain = 3
 	offline_vision_restriction = 1
 
@@ -453,7 +453,7 @@ Technomancer RIG
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0
 	drain = 3.5
 	offline_slowdown = 3
 	offline_vision_restriction = 1
@@ -484,7 +484,7 @@ Technomancer RIG
 		bio = 100,
 		rad = 100
 	)
-	slowdown = 0.3
+	slowdown = 0
 	drain = 3.5
 	offline_slowdown = 3
 	offline_vision_restriction = 1
