@@ -14,7 +14,7 @@
 	EVENT_LEVEL_MUNDANE = 0, //Mundane
 	EVENT_LEVEL_MODERATE = 0, //Moderate
 	EVENT_LEVEL_MAJOR = 0, //Major
-	EVENT_LEVEL_ROLESET = -250 //Roleset
+	EVENT_LEVEL_ROLESET = -999 //Roleset
 	)
 
 /datum/storyteller/mime/handle_points() //the mime does not run any events, and points are frozen while the mime is in charge.
