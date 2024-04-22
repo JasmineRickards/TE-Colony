@@ -24,7 +24,7 @@
 	name = "sending trade beacon"
 	icon_state = "beacon_sending"
 	circuit = /obj/item/circuitboard/trade_beacon/sending
-	var/export_cooldown = 180 SECONDS
+	var/export_cooldown = 35 SECONDS
 	var/export_timer_start
 
 /obj/machinery/trade_beacon/sending/Initialize()

@@ -4,7 +4,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar
 	disk_name = "Greyson Positronics Tool Pack"
 	icon_state = "onestar"
-	license = 5
+	license = 15
 	designs = list(
 		/datum/design/autolathe/tool/crowbar_onestar,
 		/datum/design/autolathe/tool/combi_driver_onestar,
@@ -24,7 +24,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/stockparts
 	disk_name = "Greyson Positronics Stock Parts Pack"
 	icon_state = "onestar"
-	license = 8
+	license = 16
 	designs = list(
 		/datum/design/autolathe/greyson/laser,
 		/datum/design/autolathe/greyson/matter,
@@ -36,7 +36,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/cog
 	disk_name = "Greyson Positronics - Cog"
 	icon_state = "onestar"
-	license = 6
+	license = 16
 	designs = list(
 		/datum/design/autolathe/gun/greyson_cog = 2,
 		/datum/design/autolathe/cell/medium/high,
@@ -45,7 +45,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/spring
 	disk_name = "Greyson Positronics - Spring"
 	icon_state = "onestar"
-	license = 10
+	license = 20
 	designs = list(
 		/datum/design/autolathe/gun/spring = 4,
 		/datum/design/autolathe/ammo/pistol_practice = 0,
@@ -57,7 +57,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/rivet
 	disk_name = "Greyson Positronics - Rivet"
 	icon_state = "onestar"
-	license = 10
+	license = 20
 	designs = list(
 		/datum/design/autolathe/gun/rivet = 4,
 		/datum/design/autolathe/ammo/magnum_practice = 0,
@@ -69,7 +69,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/rebar
 	disk_name = "Greyson Positronics - rebar"
 	icon_state = "onestar"
-	license = 10
+	license = 20
 	designs = list(
 		/datum/design/autolathe/gun/rebar = 3,
 		/datum/design/autolathe/ammo/kurtz_practice = 0,
@@ -81,7 +81,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/nail_gun
 	disk_name = "Greyson Positronics - Nail Gun"
 	icon_state = "onestar"
-	license = 16
+	license = 32
 	designs = list(
 		/datum/design/autolathe/gun/nail_gun = 6,
 		/datum/design/autolathe/ammo/lrifle_short_practice = 0,
@@ -97,7 +97,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/scaffold
 	disk_name = "Greyson Positronics - Scaffold"
 	icon_state = "onestar"
-	license = 6
+	license = 12
 	designs = list(
 		/datum/design/autolathe/gun/scaffold = 2,
 		/datum/design/autolathe/ammo/c10x24,
@@ -108,7 +108,7 @@
 	disk_name = "Greyson Positronics - Trouble Shooter"
 	icon_state = "onestar"
 
-	license = 6
+	license = 12
 	designs = list(
 		/datum/design/autolathe/gun/trouble_shooter = 3,
 		/datum/design/autolathe/ammo/rifle,						//AK ammo
@@ -119,7 +119,7 @@
 /obj/item/computer_hardware/hard_drive/portable/design/onestar/armor
 	disk_name = "Greyson Positronics - Ablative Vest"
 	icon_state = "onestar"
-	license = 6 //3 sets
+	license = 12 //3 sets
 	designs = list(
 		/datum/design/autolathe/clothing/iron_lock_security_armor,
 		/datum/design/autolathe/clothing/iron_lock_security_helmet,

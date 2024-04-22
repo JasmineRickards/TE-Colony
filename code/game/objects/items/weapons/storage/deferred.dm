@@ -356,19 +356,19 @@
 /obj/item/storage/deferred/disks
 	name = "autolathe disk box"
 	desc = "A small collection of autolathe disks"
-	initial_contents = list(/obj/random/lathe_disk = 7)
+	initial_contents = list(/obj/random/lathe_disk = 14)
 
 /obj/item/storage/deferred/gun_parts
 	name = "gun part box"
 	desc = "Uppers, lowers, and everything in between"
-	initial_contents = list(/obj/random/gun_parts = 7)
+	initial_contents = list(/obj/random/gun_parts = 14)
 
 /obj/item/storage/deferred/powercells
 	name = "powercell box"
 	desc = "A small collection of powercells"
-	initial_contents = list(/obj/random/powercell/large_safe = 2,
-							/obj/random/powercell/medium_safe = 2,
-							/obj/random/powercell/small_safe = 3)
+	initial_contents = list(/obj/random/powercell/large_safe = 4,
+							/obj/random/powercell/medium_safe = 4,
+							/obj/random/powercell/small_safe = 6)
 
 /obj/item/storage/deferred/electronics
 	name = "circuit board box"

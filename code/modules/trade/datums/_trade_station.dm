@@ -38,10 +38,10 @@
 	var/wealth = 0						// The abstract value of the goods sold to the station via offers + base income. Represents the station's ability to produce or purchase goods.
 
 	var/favor = 0							// For keeping track of how much wealth a station has handled with the players. Triggers events when certain thresholds are reached.
-	var/hidden_inv_threshold = 2000			// Amount of favor required to unlock secret inventory
+	var/hidden_inv_threshold = 1000			// Amount of favor required to unlock secret inventory
 	var/hidden_inv_unlocked = FALSE
 	var/list/hidden_inventory = list()
-	var/recommendation_threshold = 4000		// Amount of favor required to unlock recommendation
+	var/recommendation_threshold = 2000		// Amount of favor required to unlock recommendation
 	var/recommendation_unlocked = FALSE
 	var/list/stations_recommended = list()	// Stations recommended by this station
 	var/list/recommendations_needed = 0		// Station recommendations needed to unlock this station
